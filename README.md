@@ -9,6 +9,10 @@ Modify the sample_text.txt file with your own text.
 
 Run the Text_labelling.ipynb notebook.
 
+You should get the following output
+
+![Output](imgs/output.PNG "Title")
+
 ### Installation
 
 pip install -r requirements.txt
