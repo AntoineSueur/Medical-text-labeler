@@ -15,7 +15,7 @@ You should get the following output
 
 ### Installation
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 
 ## Authors
