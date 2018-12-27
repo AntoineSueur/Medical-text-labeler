@@ -5,9 +5,9 @@ The model was trained on around 40 000 scraped articles found on 4 different web
 
 ## Getting Started
 
-Modify the sample_text.txt file with your own text.
+Modify the ```sample_text.txt``` file with your own text.
 
-Run the Text_labelling.ipynb notebook.
+Run the ```Text_labelling.ipynb``` notebook.
 
 You should get the following output
 
